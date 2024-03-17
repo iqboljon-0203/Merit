@@ -8,7 +8,7 @@ body {
   width: 100%;
 }
 .container {
-  width: 90%;
+  width: 80%;
   margin: 0 auto;
 }
 .header {
@@ -16,7 +16,7 @@ body {
   height: auto;
   border:2px solid red;
   background-image: url("./img/Header\ \(1\).png");
-  background-position: 60px -60px;
+  background-position: 150px -30px;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -102,42 +102,42 @@ body {
     .header{
       /* background-color: red; */
       background-size:cover;
-      background-position:-90px -30px;
+      background-position:150px -30px;
     }
 }
-@media only screen and (max-width:1360px) { 
+@media only screen and (max-width:1400px) { 
   .header{
     /* background-color: red; */
     background-size:cover;
-    background-position:-160px -30px;
+    background-position:20px -30px;
   }
 }
 @media only screen and (max-width:1320px) { 
   .header{
     /* background-color: red; */
     background-size:cover;
-    background-position:-200px -30px;
+    background-position:-20px -30px;
   }
 }
 @media only screen and (max-width:1300px) { 
   .header{
     /* background-color: red; */
     background-size:cover;
-    background-position:-240px -30px;
+    background-position:-40px -30px;
   }
 }
 @media only screen and (max-width:1220px) { 
   .header{
     /* background-color: red; */
     background-size:cover;
-    background-position:-300px -30px;
+    background-position:-120px -30px;
   }
 }
 @media only screen and (max-width:1150px) { 
   .header{
     /* background-color: red; */
     background-size:cover;
-    background-position:-320px -30px;
+    background-position:-140px -30px;
   }
   .navbar_menu{
     display: block;
@@ -152,7 +152,7 @@ body {
   .header{
     /* background-color: red; */
     background-size:cover;
-    background-position:-340px -30px;
+    background-position:-100px -30px;
   }
   
 }
@@ -160,7 +160,7 @@ body {
   .header{
     /* background-color: red; */
     background-size:cover;
-    background-position:-360px -30px;
+    background-position:-120px -30px;
   }
   
 }
